@@ -1,7 +1,8 @@
 # fUSIAnalyzer
-The software for analyzing functional ultrasound data. The software is currently build on MATLAB 2017b could be executed in Windows and MacOS once you installed MATLAB. Please download the software in the release page https://github.com/YunAnGitHub/fUSIAnalyzer/tags .
+The software for analyzing functional ultrasound data. The software is currently build on MATLAB 2017b could be executed in Windows and MacOS once you installed MATLAB. Please download the software in the release page https://github.com/YunAnGitHub/fUSIAnalyzer/tags . To execute the software, you need a USERNAME and PASSWORD. If you don't have one, Please send me a mail.
 
-Please send me a mail for acquiring the USERNAME and PASSWORD of fUSIAnalyzer.
+Tutorial Video:
+https://www.youtube.com/playlist?list=PL93HKOLmIO_cK9zdETniLOAj49CIWAb20
 
-feel free to mail me if you have any questions!
+Feel free to mail me if you have any questions!
 email address: yun-an.huang@nerf.be
