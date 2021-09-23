@@ -4,9 +4,3 @@ The software for analyzing functional ultrasound data. The software is currently
 
 Feel free to mail me if you have any questions!
 email address: yun-an.huang@nerf.be
-
-<script language="JavaScript">
-<!--
-document.write("Last Updated : " + document.lastModified);
-//-->
-</script>
