@@ -6,4 +6,6 @@ The software is built for analyzing functional ultrasound data. The software is 
 Feel free to <A HREF="mailto:yun-an.huang@nerf.be">mail me</A>  if you have any questions!
 
 --
-if you meet the problem of authentication failed when you login. please update the license folder with this file: 
+
+if you meet the problem of authentication failed when you login. please update the license folder with this file: <a href:"https://github.com/YunAnGitHub/fUSIAnalyzer/releases/tag/fUSIAnalyzer_v2.6.4.license"> license </a>
+
