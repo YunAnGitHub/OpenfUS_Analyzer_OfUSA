@@ -12,6 +12,7 @@ If you meet the problem of authentication failed when you login. please update t
 
 The current stable version is <a href="https://github.com/YunAnGitHub/fUSIAnalyzer/releases/tag/fUSIAnalyzer_v2.6.4.p5"> fUSIAnalyzer_v2.6.4.p5 </a>
 
+NOTE
 --
 
 For analyzing the data with new acqusition protocol (released after August, 2022), please use the fUSIAnalyzer version later than v2.6.5 or v3.1.
