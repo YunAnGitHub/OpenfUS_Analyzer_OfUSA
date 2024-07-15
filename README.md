@@ -8,7 +8,7 @@ Feel free to <A HREF="mailto:yun-an.huang@nerf.be">mail me</A>  if you have any 
 
 # Note 
 
-The recommended version is V3.5.1  
+The recommended version is V3.7.1  
 
 
 # Date
